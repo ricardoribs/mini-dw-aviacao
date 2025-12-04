@@ -1,0 +1,17 @@
+# Ignorar ambiente virtual
+venv/
+.venv/
+__pycache__/
+
+# Ignorar senhas e variáveis de ambiente
+.env
+
+# Ignorar arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar logs
+logs/*.log
+
+# Opcional: Ignorar dados gerados se forem muito pesados
+# data/raw/*.csv
+# data/staging/*.parquet
