@@ -47,7 +47,7 @@ Histograma analisando a frequência de atrasos por companhia.
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/mini-dw-aviacao.git](https://github.com/SEU-USUARIO/mini-dw-aviacao.git)
+   git clone [https://github.com/ricardoribs/mini-dw-aviacao.git]
    
 2. Instale as dependências:
    pip install pandas sqlalchemy psycopg2-binary python-dotenv faker matplotlib seaborn
