@@ -27,15 +27,15 @@ O pipeline segue uma arquitetura em camadas (ETL):
 
 ### 1. Ranking de Pontualidade
 Análise via SQL identificando qual companhia aérea teve menor média de atraso.
-![Ranking SQL](caminho_para_sua_imagem_do_select_count_ou_ranking.png)
+![Ranking SQL](Ranking SQL.png)
 
 ### 2. Impacto do Clima nos Atrasos
 Visualização gerada no Jupyter Notebook comprovando a correlação entre condições climáticas adversas e tempo de atraso.
-![Gráfico Clima](2.png)
+![Gráfico Clima](Gráfico Clima.png)
 
 ### 3. Distribuição de Atrasos
 Histograma analisando a frequência de atrasos por companhia.
-![Histograma](3.png)
+![Histograma](Histograma.png)
 
 ## 🚀 Como Executar o Projeto
 
