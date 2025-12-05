@@ -27,15 +27,15 @@ O pipeline segue uma arquitetura em camadas (ETL):
 
 ### 1. Ranking de Pontualidade
 Análise via SQL identificando qual companhia aérea teve menor média de atraso.
-![Ranking SQL](Ranking SQL.png)
+![Ranking SQL](https://github.com/ricardoribs/mini-dw-aviacao/blob/main/img/Ranking%20SQL.png.PNG)
 
 ### 2. Impacto do Clima nos Atrasos
 Visualização gerada no Jupyter Notebook comprovando a correlação entre condições climáticas adversas e tempo de atraso.
-![Gráfico Clima](Gráfico Clima.png)
+![Gráfico Clima](https://github.com/ricardoribs/mini-dw-aviacao/blob/main/img/Gr%C3%A1fico%20Clima.png.PNG)
 
 ### 3. Distribuição de Atrasos
 Histograma analisando a frequência de atrasos por companhia.
-![Histograma](Histograma.png)
+![Histograma](https://github.com/ricardoribs/mini-dw-aviacao/blob/main/img/Histograma.png.PNG)
 
 ## 🚀 Como Executar o Projeto
 
